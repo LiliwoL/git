@@ -22,3 +22,8 @@ branch_1
   Barre de menu en gris
 
 branch_2
+  Barre de menu en rouge
+
+  -> sous branche
+  new_feature
+    Barre de menu en vert
